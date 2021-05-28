@@ -9,7 +9,7 @@ Principais Desafios Superados:
 * Criação de movimentos
 
 * Bloqueio de areas do game
-
-*Movimento dos inimigos
+ 
+* Movimento dos inimigos
 
 * Dano aos Personagens
